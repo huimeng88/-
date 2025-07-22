@@ -1,0 +1,92 @@
+{
+  "operators": [
+    {
+      "codename": "红狼",
+      "realname": "凯·席尔瓦",
+      "birthday": "2006-04-29",
+      "position": "突击位",
+      "element": "火",
+      "luckyWeapon": "突击步枪"
+    },
+    {
+      "codename": "威龙",
+      "realname": "王宇昊",
+      "birthday": "2008-05-11",
+      "position": "突击位",
+      "element": "土",
+      "luckyWeapon": "冲锋枪"
+    },
+    {
+      "codename": "无名",
+      "realname": "埃利·德·蒙贝尔",
+      "birthday": "2010-10-30",
+      "position": "突击位",
+      "element": "金",
+      "luckyWeapon": "霰弹枪"
+    },
+    {
+      "codename": "疾风",
+      "realname": "克莱尔·安·拜尔斯",
+      "birthday": "2006-03-27",
+      "position": "突击位",
+      "element": "木",
+      "luckyWeapon": "突击步枪"
+    },
+    {
+      "codename": "蜂医",
+      "realname": "罗伊·斯米",
+      "birthday": "2008-02-23",
+      "position": "支援位",
+      "element": "水",
+      "luckyWeapon": "医疗枪"
+    },
+    {
+      "codename": "蛊",
+      "realname": "佐娅·庞琴科娃",
+      "birthday": "2002-08-08",
+      "position": "支援位",
+      "element": "金",
+      "luckyWeapon": "轻机枪"
+    },
+    {
+      "codename": "牧羊人",
+      "realname": "泰瑞·缪萨",
+      "birthday": "2001-09-02",
+      "position": "工程位",
+      "element": "金",
+      "luckyWeapon": "工程工具"
+    },
+    {
+      "codename": "深蓝",
+      "realname": "阿列克谢·彼得洛夫",
+      "birthday": "1990-07-22",
+      "position": "工程位",
+      "element": "火",
+      "luckyWeapon": "爆破装置"
+    },
+    {
+      "codename": "乌鲁鲁",
+      "realname": "大卫·费莱尔",
+      "birthday": "1995-04-25",
+      "position": "工程位",
+      "element": "土",
+      "luckyWeapon": "防御工具"
+    },
+    {
+      "codename": "露娜",
+      "realname": "金卢娜",
+      "birthday": "2005-09-12",
+      "position": "侦查位",
+      "element": "金",
+      "luckyWeapon": "狙击枪"
+    },
+    {
+      "codename": "骇爪",
+      "realname": "麦晓雯",
+      "birthday": "2013-11-16",
+      "position": "侦查位",
+      "element": "水",
+      "luckyWeapon": "侦察设备"
+    }
+  ]
+}
